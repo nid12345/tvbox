@@ -276,12 +276,41 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
-https://epg.pw/stream/9844e656e3c825bf567e65700b778253cd3845746c04ed4381ffc35ef1e1c486.ctv
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
-https://epg.pw/stream/526a3ef341006f3faa106f8bba2a1dd845ff6e787ed1646f01e7237466a8f520.ctv
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
-https://epg.pw/stream/45155b4213cd9dd7daa074da50aeb643536bb47f73f40ca47ab774712a20426c.ctv 
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/9844e656e3c825bf567e65700b778253cd3845746c04ed4381ffc35ef1e1c486.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/9e2e895946b8ab2a57fb1efa05907c11e8e4f89f3f802610bc8541e9ff59bfad.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/fdd7ad599f382b5f7108dab7a3ce7328c9b7c57498555aa72ea767666f59f15c.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/b25fc7de28b15cee4067778267b99703fc4e90fceb62e95a47f33dfb7c93186e.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/16c53d826fb4bd7f68e092469dc346959c61e60f781b631f19a12e78bebfa45d.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/99e9a1c938fc36c00b8b7af1d66dd760d706e9572e31539cd2ab419a9e7408f8.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/1d3adccba5075c8805dfb3f2277c4dc6179a3d339a3c757ffbf7e78d787783be.ctv  "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/5674634ee63ab6e01eef2aff0f1bb07cb4e44ecf4742ed39a26898772e16e921.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/8de656c32907825d99a8c68a1e56cb2d4f18f2f7891f30069c9fab31c6936a3c.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/fd768498026819b130686fcc274b798438008f12360797edde51d7761759d743.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/526a3ef341006f3faa106f8bba2a1dd845ff6e787ed1646f01e7237466a8f520.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/791517ac2a3fca973fd330156c354c05c5d1db7f38961bcab24857d7a95ddbb7.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/9e8025099cfde1b3fdab798cf31f8e2ba67a48a464d2a1b1877a69f3592082e9.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/21fcb93d5a385dc35be7b83784abc0e18ce86cfe8b7cf7b09e8e2884483d3843.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv "
+"#EXTINF:-1 tvg-id=""TVB翡翠台"" tvg-name=""TVB翡翠台"" tvg-logo=""https://live.fanmingming.com/tv/TVB翡翠台.png"" group-title=""香港频道"",TVB翡翠台
+https://epg.pw/stream/f9164afa8e2b8ed648cb3d903dbc547ed2035f3dd210c1dada7a0f8a4ba7a867.ctv "
+
 
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国"  group-title="斗鱼频道",斗鱼老三国
