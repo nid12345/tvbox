@@ -77,10 +77,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -271,12 +268,23 @@ http://php.jdshipin.com:8880/chudian.php?id=cazh
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="地方频道",汕头综合
 https://sttv-tsl.cutv.com/lKGXIQa/500/d2slfG0.m3u8
 
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰中文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 
 
-斗鱼频道,#genre#
-斗鱼老三国,https://tv.iill.top/douyu/7459925
-斗鱼新三国,https://tv.iill.top/douyu/5908256
-斗鱼狄仁杰,https://tv.iill.top/douyu/11685263
-斗鱼港剧间,https://tv.iill.top/douyu/4549169
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="香港频道",TVB翡翠台
+https://epg.pw/stream/9844e656e3c825bf567e65700b778253cd3845746c04ed4381ffc35ef1e1c486.ctv#https://epg.pw/stream/87424e9fb6e25b9b628bfa3e327e65e73a57c9f83c09f8abd479b1f3d062ea49.ctv#https://epg.pw/stream/ddedf632ce91681c3f61f742fed863509e419bd1942dc1aec59dbe04f859d87d.ctv#https://epg.pw/stream/d286d72ac8a3cd6fb43998fa5fdd35d77e3b11d40636df821fa5c2f9945c3445.ctv#https://epg.pw/stream/9e2e895946b8ab2a57fb1efa05907c11e8e4f89f3f802610bc8541e9ff59bfad.ctv#https://epg.pw/stream/54dd2989f4925a37f298b6d9672b2b2f74a59946df85b8d138b0ffe4075626f7.ctv#https://epg.pw/stream/fdd7ad599f382b5f7108dab7a3ce7328c9b7c57498555aa72ea767666f59f15c.ctv#https://epg.pw/stream/b319456b945c3d25e69e8f76ba7584104426c5a997105b7367afba580c269469.ctv#https://epg.pw/stream/b25fc7de28b15cee4067778267b99703fc4e90fceb62e95a47f33dfb7c93186e.ctv#https://epg.pw/stream/915f5e6780af9490b95ce62ae7a5ca34ded9cb832e8f133a32ea9609a5373159.ctv#https://epg.pw/stream/16c53d826fb4bd7f68e092469dc346959c61e60f781b631f19a12e78bebfa45d.ctv#https://epg.pw/stream/fca02cb2f6fe36552af6298ebf8546e1c09d83783559a2d62575e22403da28c2.ctv#https://epg.pw/stream/99e9a1c938fc36c00b8b7af1d66dd760d706e9572e31539cd2ab419a9e7408f8.ctv#https://epg.pw/stream/1d3adccba5075c8805dfb3f2277c4dc6179a3d339a3c757ffbf7e78d787783be.ctv#https://epg.pw/stream/5674634ee63ab6e01eef2aff0f1bb07cb4e44ecf4742ed39a26898772e16e921.ctv#https://epg.pw/stream/8de656c32907825d99a8c68a1e56cb2d4f18f2f7891f30069c9fab31c6936a3c.ctv#https://epg.pw/stream/02a55cd3eefb7e7301d9f1c97a9364a1e7e666bf396a17fc916ce7000ce6a826.ctv 
+
+
+#EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国"  group-title="斗鱼频道",斗鱼老三国
+https://tv.iill.top/douyu/7459925
+#EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国"  group-title="斗鱼频道",斗鱼新三国
+https://tv.iill.top/douyu/5908256
+#EXTINF:-1 tvg-id="斗鱼狄仁杰" tvg-name="斗鱼狄仁杰"  group-title="斗鱼频道",斗鱼狄仁杰
+https://tv.iill.top/douyu/11685263
+#EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间"  group-title="斗鱼频道",斗鱼港剧间
+https://tv.iill.top/douyu/4549169
