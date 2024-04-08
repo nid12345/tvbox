@@ -229,6 +229,8 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 tvg-id="tvb星河台" tvg-name="tvb星河台" tvg-logo="https://live.fanmingming.com/tv/tvb星河.png" group-title="香港频道",tvb星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2019/06-30/67873/water_67873_698_348.45_.png" group-title="斗鱼频道",斗鱼老三国
