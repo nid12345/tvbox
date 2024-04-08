@@ -266,6 +266,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
 
+
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国"  group-title="斗鱼频道",斗鱼老三国
 https://tv.iill.top/douyu/7459925
 #EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国"  group-title="斗鱼频道",斗鱼新三国
@@ -274,3 +275,9 @@ https://tv.iill.top/douyu/5908256
 https://tv.iill.top/douyu/11685263
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间"  group-title="斗鱼频道",斗鱼港剧间
 https://tv.iill.top/douyu/4549169
+
+
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://fanmingming.com/fm?id=639&logo=1" radio="true" group-title="电台",中国之声
+https://fanmingming.com/fm?id=639
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://fanmingming.com/fm?id=643&logo=1" radio="true" group-title="电台",台海之声
+https://fanmingming.com/fm?id=643
