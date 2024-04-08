@@ -247,7 +247,6 @@ https://itv.lat/tv/live.php?&line=1&id=sport5
 https://itv.lat/tv/live.php?&line=1&id=sport6
 #EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育7
 https://itv.lat/tv/live.php?&line=1&id=sport7
-
 #EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="地方频道",潮州综合
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 #EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="地方频道",潮州民生
@@ -269,13 +268,13 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://iptv.hiper25.com/TVB/video.m3u8
 
 
-#EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼老三国
+#EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2019/06-30/67873/water_67873_698_348.45_.png" group-title="斗鱼频道",斗鱼老三国
 https://tv.iill.top/douyu/7459925
-#EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼新三国
+#EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2019/06-30/67873/water_67873_698_348.45_.png" group-title="斗鱼频道",斗鱼新三国
 https://tv.iill.top/douyu/5908256
-#EXTINF:-1 tvg-id="斗鱼狄仁杰" tvg-name="斗鱼狄仁杰" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼狄仁杰
+#EXTINF:-1 tvg-id="斗鱼狄仁杰" tvg-name="斗鱼狄仁杰" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2019/06-30/67873/water_67873_698_348.45_.png" group-title="斗鱼频道",斗鱼狄仁杰
 https://tv.iill.top/douyu/11685263
-#EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼港剧间
+#EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2019/06-30/67873/water_67873_698_348.45_.png" group-title="斗鱼频道",斗鱼港剧间
 https://tv.iill.top/douyu/4549169
 
 
@@ -293,12 +292,14 @@ https://fanmingming.com/fm?id=643
 https://fanmingming.com/fm?id=646
 #EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://fanmingming.com/fm?id=645&logo=1" radio="true" group-title="电台",大湾区之声
 https://fanmingming.com/fm?id=645
+
 #XTINF:-1 tvg-name="汕头电台综合广播" tvg-logo="https://fanmingming.com/fm?id=1068&logo=1" radio="true"  group-title="电台",汕头电台综合广播
 https://fanmingming.com/fm?id=1068
 #EXTINF:-1 tvg-name="汕头电台经济广播" tvg-logo="https://fanmingming.com/fm?id=1071&logo=1" radio="true"  group-title="电台",汕头电台经济广播
 https://fanmingming.com/fm?id=1071
 #EXTINF:-1 tvg-name="汕头电台音乐之声" tvg-logo="https://fanmingming.com/fm?id=1076&logo=1" radio="true"  group-title="电台",汕头电台音乐之声
 https://fanmingming.com/fm?id=1076E
+
 #EXTINF:-1 tvg-name="潮州戏曲广播" tvg-logo="https://fanmingming.com/fm?id=2254&logo=1" radio="true" group-title="电台",潮州戏曲广播
 https://fanmingming.com/fm?id=2254
 #EXTINF:-1 tvg-name="潮州交通音乐广播" tvg-logo="https://fanmingming.com/fm?id=2193&logo=1" radio="true" group-title="电台",潮州交通音乐广播
