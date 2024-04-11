@@ -126,7 +126,6 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="tvb星河台" tvg-name="tvb星河台" tvg-logo="https://live.fanmingming.com/tv/tvb星河.png" group-title="港台频道",tvb星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰卫视香港台
 
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼老三国
@@ -166,3 +165,32 @@ https://fanmingming.com/fm?id=2254
 https://fanmingming.com/fm?id=2193
 #EXTINF:-1 tvg-name="潮州综合广播" tvg-logo="https://fanmingming.com/fm?id=2194&logo=1" radio="true" group-title="电台",潮州综合广播
 https://fanmingming.com/fm?id=2194
+
+#EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
+https://apiurl.v1.mk/huya/28274529
+https://apiurl.v1.mk/huya/29807256
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="网络直播",陈翔六点半
+https://apiurl.v1.mk/huya/11274154
+https://apiurl.v1.mk/douyu/2132902
+#EXTINF:-1 tvg-name="老高与小茉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="网络直播",老高与小茉
+https://apiurl.v1.mk/douyu/838632
+https://apiurl.v1.mk/douyu/11265107
+#EXTINF:-1 tvg-name="所长林超" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="网络直播",所长林超
+https://apiurl.v1.mk/douyu/9447974
+#EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="网络直播",老爸评测
+https://apiurl.v1.mk/douyu/9642554
+#EXTINF:-1 tvg-name="海南军阀赶海" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="网络直播",海南军阀赶海
+https://apiurl.v1.mk/douyu/1109218
+#EXTINF:-1 tvg-name="村霸普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="网络直播",村霸普法
+https://apiurl.v1.mk/douyu/10551378
+#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="网络直播",科学放映室
+https://apiurl.v1.mk/douyu/9439712
+#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="网络直播",浩瀚的宇宙
+https://apiurl.v1.mk/douyu/9606719
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="网络直播",iPanda
+https://gcwbndcnc.v.wscdns.com/gcwbnd/ipanda1000_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
