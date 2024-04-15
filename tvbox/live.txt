@@ -126,7 +126,7 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港台频道",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
-#EXTINF:-1 tvg-id="tvb星河台" tvg-name="tvb星河台" tvg-logo="https://live.fanmingming.com/tv/tvb星河.png" group-title="港台频道",tvb星河台
+#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 
