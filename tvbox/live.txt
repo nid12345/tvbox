@@ -337,11 +337,12 @@ http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
 http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港台频道",TVB翡翠台
-http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+https://iptv.doyoulinkwantyousee.top/TVB/video.m3u8?token=qsQgZmyjhR7cA3
 #EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港台频道",TVB明珠台
-http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台频道",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+https://iptv.doyoulinkwantyousee.top/Pearl/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港台频道",澳视澳门
+https://iptv.doyoulinkwantyousee.top/TDM/video.m3u8?token=qsQgZmyjhR7cA3
+
 
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼老三国
