@@ -274,6 +274,12 @@ http://live.iill.top/douyu.php?id=8600645
 #EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道", 周星驰电影
 http://live.iill.top/douyu.php?id=122402
 
+#EXTINF:-1 tvg-id="海绵宝宝" tvg-name=" 海绵宝宝" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道", 海绵宝宝
+http://live.iill.top/douyu.php?id=3949681
+
+#EXTINF:-1 tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道", 成龙历险记
+http://live.iill.top/douyu.php?id=2287949
+
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼港剧间
 http://live.iill.top/douyu.php?id=4549169
 #EXTINF:-1 tvg-id="地球频道" tvg-name="地球频道" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",地球频道
