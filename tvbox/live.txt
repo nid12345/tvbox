@@ -181,47 +181,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 
-#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/stxwzhpd.jpg" group-title="潮汕频道",汕头新闻综合
-http://jt.zorua.cn:8787/udp/239.77.1.130:5146
-#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/stxwzhpd.jpg" group-title="潮汕频道",汕头新闻综合
-http://jt.zorua.cn:8787/udp/239.253.43.45:5146
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/stjjsh.jpg" group-title="潮汕频道",汕头经济生活
-http://jt.zorua.cn:8787/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/stjjsh.jpg" group-title="潮汕频道",汕头经济生活
-http://jt.zorua.cn:8787/udp/239.253.43.46:5146
-#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/styswy.jpg" group-title="潮汕频道",汕头文旅体育
-http://jt.zorua.cn:8787/udp/239.77.1.132:5146
-
-#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/styswy.jpg" group-title="潮汕频道",汕头文旅体育
-http://jt.zorua.cn:8787/udp/239.253.43.47:5146
-
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州综合
-http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州综合
-http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州民生
-http://www.zzlag.top:9087/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaoantv.jpg" group-title="潮汕频道",潮安综合
-http://www.zzlag.top:9087/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="饶平" tvg-name="饶平" tvg-logo="http://www.tvyan.com/uploads/dianshi/raopingtai.jpg" group-title="潮汕频道",饶平
-http://www.zzlag.top:9087/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg" group-title="潮汕频道",揭阳公共
-http://jt.zorua.cn:8787/udp/239.77.0.251:5146
-#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg" group-title="潮汕频道",揭阳综合
-http://jt.zorua.cn:8787/udp/239.77.0.229:5146
-
-
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="潮汕频道",TVB翡翠台
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="潮汕频道",TVB星河台
+#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="潮汕频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳频道",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="潮汕频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳频道",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="潮汕频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
@@ -282,10 +252,18 @@ http://live.iill.top/douyu.php?id=2287949
 
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼港剧间
 http://live.iill.top/douyu.php?id=4549169
-#EXTINF:-1 tvg-id="地球频道" tvg-name="地球频道" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",地球频道
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="以下频道需要IPv6网络" tvg-name="以下频道需要IPv6网络" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="以下频道需要IPv6网络", ⚠️以下频道需要IPv6网络
 http://live.iill.top/douyu.php?id=9412365
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -615,45 +593,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 
-#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/stxwzhpd.jpg" group-title="潮汕频道",汕头新闻综合
-http://www.zzlag.top:9087/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/stxwzhpd.jpg" group-title="潮汕频道",汕头新闻综合
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/stjjsh.jpg" group-title="潮汕频道",汕头经济生活
-http://www.zzlag.top:9087/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/stjjsh.jpg" group-title="潮汕频道",汕头经济生活
-http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
-#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/styswy.jpg" group-title="潮汕频道",汕头文旅体育
-http://www.zzlag.top:9087/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州综合
-http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州综合
-http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaozhou.jpg" group-title="潮汕频道",潮州民生
-http://www.zzlag.top:9087/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/chaoantv.jpg" group-title="潮汕频道",潮安综合
-http://www.zzlag.top:9087/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="饶平" tvg-name="饶平" tvg-logo="http://www.tvyan.com/uploads/dianshi/raopingtai.jpg" group-title="潮汕频道",饶平
-http://www.zzlag.top:9087/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg" group-title="潮汕频道",揭阳公共
-http://www.zzlag.top:9087/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/jieyang.jpg" group-title="潮汕频道",揭阳综合
-http://www.zzlag.top:9087/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="潮汕频道",TVB翡翠台
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳频道",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="潮汕频道",TVB星河台
+#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳频道",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="潮汕频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳频道",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="潮汕频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳频道",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="潮汕频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
@@ -835,36 +785,3 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://fanmingming.com/fm?id=639&logo=1" radio="true" group-title="电台",中国之声
-https://fanmingming.com/fm?id=639
-#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://fanmingming.com/fm?id=640&logo=1" radio="true" group-title="电台",经济之声
-https://fanmingming.com/fm?id=640
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://fanmingming.com/fm?id=692&logo=1" radio="true" group-title="电台",环球资讯广播
-https://fanmingming.com/fm?id=692
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://fanmingming.com/fm?id=641&logo=1" radio="true" group-title="电台",音乐之声
-https://fanmingming.com/fm?id=641
-#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://fanmingming.com/fm?id=643&logo=1" radio="true" group-title="电台",台海之声
-https://fanmingming.com/fm?id=643
-#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://fanmingming.com/fm?id=646&logo=1" radio="true" group-title="电台",香港之声
-https://fanmingming.com/fm?id=646
-#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://fanmingming.com/fm?id=645&logo=1" radio="true" group-title="电台",大湾区之声
-https://fanmingming.com/fm?id=645
-#EXTINF:-1 tvg-name="汕头电台综合广播" tvg-logo="https://fanmingming.com/fm?id=1068&logo=1" radio="true"  group-title="电台",汕头电台综合广播
-https://fanmingming.com/fm?id=1068
-#EXTINF:-1 tvg-name="汕头电台经济广播" tvg-logo="https://fanmingming.com/fm?id=1071&logo=1" radio="true"  group-title="电台",汕头电台经济广播
-https://fanmingming.com/fm?id=1071
-#EXTINF:-1 tvg-name="汕头电台音乐之声" tvg-logo="https://fanmingming.com/fm?id=1076&logo=1" radio="true"  group-title="电台",汕头电台音乐之声
-https://fanmingming.com/fm?id=1076E
-#EXTINF:-1 tvg-name="潮州戏曲广播" tvg-logo="https://fanmingming.com/fm?id=2254&logo=1" radio="true" group-title="电台",潮州戏曲广播
-https://fanmingming.com/fm?id=2254
-#EXTINF:-1 tvg-name="潮州交通音乐广播" tvg-logo="https://fanmingming.com/fm?id=2193&logo=1" radio="true" group-title="电台",潮州交通音乐广播
-https://fanmingming.com/fm?id=2193
-#EXTINF:-1 tvg-name="潮州综合广播" tvg-logo="https://fanmingming.com/fm?id=2194&logo=1" radio="true" group-title="电台",潮州综合广播
-https://fanmingming.com/fm?id=2194
-
-乐广播
-https://fanmingming.com/fm?id=2193
-#EXTINF:-1 tvg-name="潮州综合广播" tvg-logo="https://fanmingming.com/fm?id=2194&logo=1" radio="true" group-title="电台",潮州综合广播
-https://fanmingming.com/fm?id=2194
-
