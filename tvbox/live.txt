@@ -282,9 +282,7 @@ https://fanmingming.com/fm?id=2194
 
 
 
-
-
-#EXTINF:-1 tvg-id="以下两频道组非IPv6网络勿点" tvg-name="以下两频道组非IPv6网络勿点", ⚠️以下两频道组非IPv6网络勿点
+#EXTINF:-1 tvg-name="下面两组非IPv6网络勿点" tvg-logo="https://live.fanmingming.com/tv/11.png" group-title="下面两组非IPv6网络勿点", 下面两组非IPv6网络勿点
 http://live.iill.top/douyu.php?id=9412365
 
 
