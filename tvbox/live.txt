@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://live.fanmingming.com/tv/TVB.png",翡翠1
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://live.fanmingming.com/tv/TVB.png",翡翠2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
