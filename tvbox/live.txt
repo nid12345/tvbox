@@ -188,28 +188,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="广东",佛山综合
-http://php.jdshipin.com:8880/fstv.php?id=fszh
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://live.fanmingming.com/tv/佛山影视.png" group-title="广东",佛山影视
-http://php.jdshipin.com:8880/fstv.php?id=fsys
-#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="广东",佛山公共
-http://php.jdshipin.com:8880/fstv.php?id=fsgg
-#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://live.fanmingming.com/tv/佛山南海.png" group-title="广东",佛山南海
-http://php.jdshipin.com:8880/fstv.php?id=fsnh
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://live.fanmingming.com/tv/佛山顺德.png" group-title="广东",佛山顺德
-http://php.jdshipin.com:8880/fstv.php?id=fssd
-#EXTINF:-1 tvg-name="佛山高明" tvg-logo="https://live.fanmingming.com/tv/佛山高明.png" group-title="广东",佛山高明
-http://php.jdshipin.com:8880/fstv.php?id=fsgm
-#EXTINF:-1 tvg-name="佛山三水" tvg-logo="https://live.fanmingming.com/tv/佛山三水.png" group-title="广东",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
-#EXTINF:-1 tvg-name="阳江-1" tvg-logo="https://live.fanmingming.com/tv/阳江-1.png" group-title="广东",阳江-1
-http://php.jdshipin.com:8880/chudian.php?id=yjtv1
-#EXTINF:-1 tvg-name="阳江-2" tvg-logo="https://live.fanmingming.com/tv/阳江-2.png" group-title="广东",阳江-2
-http://php.jdshipin.com:8880/chudian.php?id=yjtv2
-#EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.com/tv/河源公共.png" group-title="广东",河源公共
-http://php.jdshipin.com:8880/chudian.php?id=hygg
-#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://live.fanmingming.com/tv/河源综合.png" group-title="广东",河源综合
-http://php.jdshipin.com:8880/chudian.php?id=hyzh
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼老三国
 http://live.iill.top/douyu.php?id=7459925
@@ -244,20 +222,7 @@ http://live.iill.top/douyu.php?id=2287949
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼港剧间
 http://live.iill.top/douyu.php?id=4549169
 
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://fanmingming.com/fm?id=639&logo=1" radio="true" group-title="电台",中国之声
-https://fanmingming.com/fm?id=639
-#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://fanmingming.com/fm?id=640&logo=1" radio="true" group-title="电台",经济之声
-https://fanmingming.com/fm?id=640
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://fanmingming.com/fm?id=692&logo=1" radio="true" group-title="电台",环球资讯广播
-https://fanmingming.com/fm?id=692
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://fanmingming.com/fm?id=641&logo=1" radio="true" group-title="电台",音乐之声
-https://fanmingming.com/fm?id=641
-#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://fanmingming.com/fm?id=643&logo=1" radio="true" group-title="电台",台海之声
-https://fanmingming.com/fm?id=643
-#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://fanmingming.com/fm?id=646&logo=1" radio="true" group-title="电台",香港之声
-https://fanmingming.com/fm?id=646
-#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://fanmingming.com/fm?id=645&logo=1" radio="true" group-title="电台",大湾区之声
-https://fanmingming.com/fm?id=645
+
 
 
 #EXTINF:-1 tvg-name="下面两组非IPv6网络勿点" tvg-logo="https://live.fanmingming.com/tv/11.png" group-title="下面两组非IPv6网络勿点", 下面两组非IPv6网络勿点
