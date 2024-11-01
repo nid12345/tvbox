@@ -210,8 +210,6 @@ http://live.iill.top/douyu.php?id=1226741
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道", 西游记
 http://live.iill.top/douyu.php?id=3113309
 
-
-
 #EXTINF:-1 tvg-id="请回答1988" tvg-name="请回答1988" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道", 请回答1988
 http://live.iill.top/douyu.php?id=8600645
 
@@ -226,6 +224,147 @@ http://live.iill.top/douyu.php?id=2287949
 
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="斗鱼频道",斗鱼港剧间
 http://live.iill.top/douyu.php?id=4549169
+
+
+
+
+
+#EXTINF:-1 tvg-name="👇广播电台" tvg-logo="https://live.fanmingming.com/tv/11.png" group-title="👇广播电台", 👇广播电台
+https://radio.0472.org/?id=639
+
+#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声
+https://radio.0472.org/?id=639
+#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声
+https://radio.0472.org/?id=640
+#EXTINF:-1 radio="true" tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="央广",环球资讯广播
+https://radio.0472.org/?id=692
+#EXTINF:-1 radio="true" tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="央广",音乐之声
+https://radio.0472.org/?id=641
+#EXTINF:-1 radio="true" tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="央广",中国交通广播
+https://radio.0472.org/?id=653
+#EXTINF:-1 radio="true" tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="央广",文艺之声
+https://radio.0472.org/?id=648
+#EXTINF:-1 radio="true" tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="央广",大湾区之声
+https://radio.0472.org/?id=645
+#EXTINF:-1 radio="true" tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="央广",经典音乐广播
+https://radio.0472.org/?id=642
+#EXTINF:-1 radio="true" tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="央广",台海之声
+https://radio.0472.org/?id=643
+#EXTINF:-1 radio="true" tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="央广",神州之声
+https://radio.0472.org/?id=644
+#EXTINF:-1 radio="true" tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="央广",香港之声
+https://radio.0472.org/?id=646
+#EXTINF:-1 radio="true" tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="央广",民族之声
+https://radio.0472.org/?id=647
+#EXTINF:-1 radio="true" tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="央广",老年之声
+https://radio.0472.org/?id=649
+#EXTINF:-1 radio="true" tvg-name="藏语广播" tvg-logo="https://radio.0472.org/?id=650&logo" group-title="央广",藏语广播
+https://radio.0472.org/?id=650
+#EXTINF:-1 radio="true" tvg-name="维吾尔语广播" tvg-logo="https://radio.0472.org/?id=651&logo" group-title="央广",维吾尔语广播
+https://radio.0472.org/?id=651
+#EXTINF:-1 radio="true" tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="央广",阅读之声
+https://radio.0472.org/?id=652
+#EXTINF:-1 radio="true" tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="央广",中国乡村之声
+https://radio.0472.org/?id=654
+#EXTINF:-1 radio="true" tvg-name="哈萨克语广播" tvg-logo="https://radio.0472.org/?id=655&logo" group-title="央广",哈萨克语广播
+https://radio.0472.org/?id=655
+#EXTINF:-1 radio="true" tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="央广",HITFM劲曲调频
+https://radio.0472.org/?id=662
+#EXTINF:-1 radio="true" tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="央广",轻松调频
+https://radio.0472.org/?id=689
+#EXTINF:-1 radio="true" tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="央广",南海之声
+https://radio.0472.org/?id=664
+#EXTINF:-1 radio="true" tvg-name="英语资讯广播 CGTN Radio" tvg-logo="https://radio.0472.org/?id=734&logo" group-title="央广",英语资讯广播 CGTN Radio
+https://radio.0472.org/?id=734
+
+#EXTINF:-1 radio="true" tvg-name="广东新闻广播" tvg-logo="https://radio.0472.org/?id=487&logo" group-title="广东",广东新闻广播
+https://radio.0472.org/?id=487
+#EXTINF:-1 radio="true" tvg-name="广东股市广播" tvg-logo="https://radio.0472.org/?id=488&logo" group-title="广东",广东股市广播
+https://radio.0472.org/?id=488
+#EXTINF:-1 radio="true" tvg-name="广东音乐之声" tvg-logo="https://radio.0472.org/?id=489&logo" group-title="广东",广东音乐之声
+https://radio.0472.org/?id=489
+#EXTINF:-1 radio="true" tvg-name="广东文体广播" tvg-logo="https://radio.0472.org/?id=490&logo" group-title="广东",广东文体广播
+https://radio.0472.org/?id=490
+#EXTINF:-1 radio="true" tvg-name="广东城市之声" tvg-logo="https://radio.0472.org/?id=491&logo" group-title="广东",广东城市之声
+https://radio.0472.org/?id=491
+#EXTINF:-1 radio="true" tvg-name="广东珠江之声" tvg-logo="https://radio.0472.org/?id=492&logo" group-title="广东",广东珠江之声
+https://radio.0472.org/?id=492
+#EXTINF:-1 radio="true" tvg-name="广东珠江经济台" tvg-logo="https://radio.0472.org/?id=493&logo" group-title="广东",广东珠江经济台
+https://radio.0472.org/?id=493
+#EXTINF:-1 radio="true" tvg-name="广东南方生活广播" tvg-logo="https://radio.0472.org/?id=494&logo" group-title="广东",广东南方生活广播
+https://radio.0472.org/?id=494
+#EXTINF:-1 radio="true" tvg-name="广东交通之声" tvg-logo="https://radio.0472.org/?id=495&logo" group-title="广东",广东交通之声
+https://radio.0472.org/?id=495
+#EXTINF:-1 radio="true" tvg-name="深圳交通频率-快乐1062" tvg-logo="https://radio.0472.org/?id=497&logo" group-title="广东",深圳交通频率-快乐1062
+https://radio.0472.org/?id=497
+#EXTINF:-1 radio="true" tvg-name="深圳音乐频率-飞扬971" tvg-logo="https://radio.0472.org/?id=498&logo" group-title="广东",深圳音乐频率-飞扬971
+https://radio.0472.org/?id=498
+#EXTINF:-1 radio="true" tvg-name="深圳生活频率-生活942" tvg-logo="https://radio.0472.org/?id=499&logo" group-title="广东",深圳生活频率-生活942
+https://radio.0472.org/?id=499
+#EXTINF:-1 radio="true" tvg-name="广州新闻资讯广播" tvg-logo="https://radio.0472.org/?id=728&logo" group-title="广东",广州新闻资讯广播
+https://radio.0472.org/?id=728
+#EXTINF:-1 radio="true" tvg-name="广州青少年广播" tvg-logo="https://radio.0472.org/?id=729&logo" group-title="广东",广州青少年广播
+https://radio.0472.org/?id=729
+#EXTINF:-1 radio="true" tvg-name="广州金曲音乐广播" tvg-logo="https://radio.0472.org/?id=730&logo" group-title="广东",广州金曲音乐广播
+https://radio.0472.org/?id=730
+#EXTINF:-1 radio="true" tvg-name="广州经济交通广播" tvg-logo="https://radio.0472.org/?id=731&logo" group-title="广东",广州经济交通广播
+https://radio.0472.org/?id=731
+#EXTINF:-1 radio="true" tvg-name="梅州电台综合广播" tvg-logo="https://radio.0472.org/?id=1063&logo" group-title="广东",梅州电台综合广播
+https://radio.0472.org/?id=1063
+#EXTINF:-1 radio="true" tvg-name="佛山电台924" tvg-logo="https://radio.0472.org/?id=1067&logo" group-title="广东",佛山电台924
+https://radio.0472.org/?id=1067
+#EXTINF:-1 radio="true" tvg-name="深圳新闻频率-先锋898" tvg-logo="https://radio.0472.org/?id=1074&logo" group-title="广东",深圳新闻频率-先锋898
+https://radio.0472.org/?id=1074
+#EXTINF:-1 radio="true" tvg-name="佛山电台906" tvg-logo="https://radio.0472.org/?id=1349&logo" group-title="广东",佛山电台906
+https://radio.0472.org/?id=1349
+#EXTINF:-1 radio="true" tvg-name="佛山电台901" tvg-logo="https://radio.0472.org/?id=1351&logo" group-title="广东",佛山电台901
+https://radio.0472.org/?id=1351
+#EXTINF:-1 radio="true" tvg-name="佛山电台946" tvg-logo="https://radio.0472.org/?id=1352&logo" group-title="广东",佛山电台946
+https://radio.0472.org/?id=1352
+#EXTINF:-1 radio="true" tvg-name="佛山电台883" tvg-logo="https://radio.0472.org/?id=1353&logo" group-title="广东",佛山电台883
+https://radio.0472.org/?id=1353
+#EXTINF:-1 radio="true" tvg-name="佛山电台985" tvg-logo="https://radio.0472.org/?id=1354&logo" group-title="广东",佛山电台985
+https://radio.0472.org/?id=1354
+#EXTINF:-1 radio="true" tvg-name="湛江经济广播" tvg-logo="https://radio.0472.org/?id=1419&logo" group-title="广东",湛江经济广播
+https://radio.0472.org/?id=1419
+#EXTINF:-1 radio="true" tvg-name="湛江交通音乐广播" tvg-logo="https://radio.0472.org/?id=1420&logo" group-title="广东",湛江交通音乐广播
+https://radio.0472.org/?id=1420
+#EXTINF:-1 radio="true" tvg-name="湛江广播电视台综合广播" tvg-logo="https://radio.0472.org/?id=1421&logo" group-title="广东",湛江广播电视台综合广播
+https://radio.0472.org/?id=1421
+#EXTINF:-1 radio="true" tvg-name="阳江综合广播" tvg-logo="https://radio.0472.org/?id=1424&logo" group-title="广东",阳江综合广播
+https://radio.0472.org/?id=1424
+#EXTINF:-1 radio="true" tvg-name="阳江旅游环保广播" tvg-logo="https://radio.0472.org/?id=1425&logo" group-title="广东",阳江旅游环保广播
+https://radio.0472.org/?id=1425
+#EXTINF:-1 radio="true" tvg-name="鹤山电台" tvg-logo="https://radio.0472.org/?id=1464&logo" group-title="广东",鹤山电台
+https://radio.0472.org/?id=1464
+#EXTINF:-1 radio="true" tvg-name="东莞音乐广播" tvg-logo="https://radio.0472.org/?id=1848&logo" group-title="广东",东莞音乐广播
+https://radio.0472.org/?id=1848
+#EXTINF:-1 radio="true" tvg-name="东莞交通广播" tvg-logo="https://radio.0472.org/?id=1849&logo" group-title="广东",东莞交通广播
+https://radio.0472.org/?id=1849
+#EXTINF:-1 radio="true" tvg-name="东莞综合广播" tvg-logo="https://radio.0472.org/?id=1850&logo" group-title="广东",东莞综合广播
+https://radio.0472.org/?id=1850
+#EXTINF:-1 radio="true" tvg-name="清远综合广播" tvg-logo="https://radio.0472.org/?id=2195&logo" group-title="广东",清远综合广播
+https://radio.0472.org/?id=2195
+#EXTINF:-1 radio="true" tvg-name="清远农村广播" tvg-logo="https://radio.0472.org/?id=2196&logo" group-title="广东",清远农村广播
+https://radio.0472.org/?id=2196
+#EXTINF:-1 radio="true" tvg-name="清远交通音乐广播" tvg-logo="https://radio.0472.org/?id=2197&logo" group-title="广东",清远交通音乐广播
+https://radio.0472.org/?id=2197
+#EXTINF:-1 radio="true" tvg-name="肇庆综合广播" tvg-logo="https://radio.0472.org/?id=2288&logo" group-title="广东",肇庆综合广播
+https://radio.0472.org/?id=2288
+#EXTINF:-1 radio="true" tvg-name="肇庆旅游之声" tvg-logo="https://radio.0472.org/?id=2289&logo" group-title="广东",肇庆旅游之声
+https://radio.0472.org/?id=2289
+#EXTINF:-1 radio="true" tvg-name="台山人民广播电台" tvg-logo="https://radio.0472.org/?id=2443&logo" group-title="广东",台山人民广播电台
+https://radio.0472.org/?id=2443
+#EXTINF:-1 radio="true" tvg-name="怀集音乐之声" tvg-logo="https://radio.0472.org/?id=2518&logo" group-title="广东",怀集音乐之声
+https://radio.0472.org/?id=2518
+#EXTINF:-1 radio="true" tvg-name="肇庆高新区广播" tvg-logo="https://radio.0472.org/?id=3285&logo" group-title="广东",肇庆高新区广播
+https://radio.0472.org/?id=3285
+
+
+
+
+
+
 
 
 
@@ -458,51 +597,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="数字频道",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",七彩戏剧
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",法治天地
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="浙江频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江纪录.png" group-title="浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
 
 
 
@@ -512,187 +606,4 @@ https://0472.org/hls/cgtna.m3u8
 
 
 
-
-#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声
-https://radio.0472.org/?id=639
-#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声
-https://radio.0472.org/?id=640
-#EXTINF:-1 radio="true" tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="央广",环球资讯广播
-https://radio.0472.org/?id=692
-#EXTINF:-1 radio="true" tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="央广",音乐之声
-https://radio.0472.org/?id=641
-#EXTINF:-1 radio="true" tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="央广",中国交通广播
-https://radio.0472.org/?id=653
-#EXTINF:-1 radio="true" tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="央广",文艺之声
-https://radio.0472.org/?id=648
-#EXTINF:-1 radio="true" tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="央广",大湾区之声
-https://radio.0472.org/?id=645
-#EXTINF:-1 radio="true" tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="央广",经典音乐广播
-https://radio.0472.org/?id=642
-#EXTINF:-1 radio="true" tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="央广",台海之声
-https://radio.0472.org/?id=643
-#EXTINF:-1 radio="true" tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="央广",神州之声
-https://radio.0472.org/?id=644
-#EXTINF:-1 radio="true" tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="央广",香港之声
-https://radio.0472.org/?id=646
-#EXTINF:-1 radio="true" tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="央广",民族之声
-https://radio.0472.org/?id=647
-#EXTINF:-1 radio="true" tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="央广",老年之声
-https://radio.0472.org/?id=649
-#EXTINF:-1 radio="true" tvg-name="藏语广播" tvg-logo="https://radio.0472.org/?id=650&logo" group-title="央广",藏语广播
-https://radio.0472.org/?id=650
-#EXTINF:-1 radio="true" tvg-name="维吾尔语广播" tvg-logo="https://radio.0472.org/?id=651&logo" group-title="央广",维吾尔语广播
-https://radio.0472.org/?id=651
-#EXTINF:-1 radio="true" tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="央广",阅读之声
-https://radio.0472.org/?id=652
-#EXTINF:-1 radio="true" tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="央广",中国乡村之声
-https://radio.0472.org/?id=654
-#EXTINF:-1 radio="true" tvg-name="哈萨克语广播" tvg-logo="https://radio.0472.org/?id=655&logo" group-title="央广",哈萨克语广播
-https://radio.0472.org/?id=655
-#EXTINF:-1 radio="true" tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="央广",HITFM劲曲调频
-https://radio.0472.org/?id=662
-#EXTINF:-1 radio="true" tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="央广",轻松调频
-https://radio.0472.org/?id=689
-#EXTINF:-1 radio="true" tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="央广",南海之声
-https://radio.0472.org/?id=664
-#EXTINF:-1 radio="true" tvg-name="英语资讯广播 CGTN Radio" tvg-logo="https://radio.0472.org/?id=734&logo" group-title="央广",英语资讯广播 CGTN Radio
-https://radio.0472.org/?id=734
-
-#EXTINF:-1 radio="true" tvg-name="福建新闻广播" tvg-logo="https://radio.0472.org/?id=470&logo" group-title="福建",福建新闻广播
-https://radio.0472.org/?id=470
-#EXTINF:-1 radio="true" tvg-name="福建音乐广播" tvg-logo="https://radio.0472.org/?id=471&logo" group-title="福建",福建音乐广播
-https://radio.0472.org/?id=471
-#EXTINF:-1 radio="true" tvg-name="福建987私家车广播" tvg-logo="https://radio.0472.org/?id=472&logo" group-title="福建",福建987私家车广播
-https://radio.0472.org/?id=472
-#EXTINF:-1 radio="true" tvg-name="福建交通应急广播" tvg-logo="https://radio.0472.org/?id=473&logo" group-title="福建",福建交通应急广播
-https://radio.0472.org/?id=473
-#EXTINF:-1 radio="true" tvg-name="福建经济电台961" tvg-logo="https://radio.0472.org/?id=474&logo" group-title="福建",福建经济电台961
-https://radio.0472.org/?id=474
-#EXTINF:-1 radio="true" tvg-name="福建东南广播" tvg-logo="https://radio.0472.org/?id=480&logo" group-title="福建",福建东南广播
-https://radio.0472.org/?id=480
-#EXTINF:-1 radio="true" tvg-name="厦门闽南之声" tvg-logo="https://radio.0472.org/?id=958&logo" group-title="福建",厦门闽南之声
-https://radio.0472.org/?id=958
-#EXTINF:-1 radio="true" tvg-name="畅行876" tvg-logo="https://radio.0472.org/?id=1206&logo" group-title="福建",畅行876
-https://radio.0472.org/?id=1206
-#EXTINF:-1 radio="true" tvg-name="漳州综合广播" tvg-logo="https://radio.0472.org/?id=1483&logo" group-title="福建",漳州综合广播
-https://radio.0472.org/?id=1483
-#EXTINF:-1 radio="true" tvg-name="漳州交通广播" tvg-logo="https://radio.0472.org/?id=1484&logo" group-title="福建",漳州交通广播
-https://radio.0472.org/?id=1484
-#EXTINF:-1 radio="true" tvg-name="宁德综合广播" tvg-logo="https://radio.0472.org/?id=1513&logo" group-title="福建",宁德综合广播
-https://radio.0472.org/?id=1513
-#EXTINF:-1 radio="true" tvg-name="厦门新闻综合广播" tvg-logo="https://radio.0472.org/?id=1894&logo" group-title="福建",厦门新闻综合广播
-https://radio.0472.org/?id=1894
-#EXTINF:-1 radio="true" tvg-name="厦门旅游广播" tvg-logo="https://radio.0472.org/?id=1895&logo" group-title="福建",厦门旅游广播
-https://radio.0472.org/?id=1895
-#EXTINF:-1 radio="true" tvg-name="厦门经济交通广播" tvg-logo="https://radio.0472.org/?id=1896&logo" group-title="福建",厦门经济交通广播
-https://radio.0472.org/?id=1896
-#EXTINF:-1 radio="true" tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="福建",厦门音乐广播
-https://radio.0472.org/?id=1897
-#EXTINF:-1 radio="true" tvg-name="宁德交通旅游广播" tvg-logo="https://radio.0472.org/?id=2237&logo" group-title="福建",宁德交通旅游广播
-https://radio.0472.org/?id=2237
-#EXTINF:-1 radio="true" tvg-name="平潭广播电视台综合广播" tvg-logo="https://radio.0472.org/?id=2532&logo" group-title="福建",平潭广播电视台综合广播
-https://radio.0472.org/?id=2532
-#EXTINF:-1 radio="true" tvg-name="广东新闻广播" tvg-logo="https://radio.0472.org/?id=487&logo" group-title="广东",广东新闻广播
-https://radio.0472.org/?id=487
-#EXTINF:-1 radio="true" tvg-name="广东股市广播" tvg-logo="https://radio.0472.org/?id=488&logo" group-title="广东",广东股市广播
-https://radio.0472.org/?id=488
-#EXTINF:-1 radio="true" tvg-name="广东音乐之声" tvg-logo="https://radio.0472.org/?id=489&logo" group-title="广东",广东音乐之声
-https://radio.0472.org/?id=489
-#EXTINF:-1 radio="true" tvg-name="广东文体广播" tvg-logo="https://radio.0472.org/?id=490&logo" group-title="广东",广东文体广播
-https://radio.0472.org/?id=490
-#EXTINF:-1 radio="true" tvg-name="广东城市之声" tvg-logo="https://radio.0472.org/?id=491&logo" group-title="广东",广东城市之声
-https://radio.0472.org/?id=491
-#EXTINF:-1 radio="true" tvg-name="广东珠江之声" tvg-logo="https://radio.0472.org/?id=492&logo" group-title="广东",广东珠江之声
-https://radio.0472.org/?id=492
-#EXTINF:-1 radio="true" tvg-name="广东珠江经济台" tvg-logo="https://radio.0472.org/?id=493&logo" group-title="广东",广东珠江经济台
-https://radio.0472.org/?id=493
-#EXTINF:-1 radio="true" tvg-name="广东南方生活广播" tvg-logo="https://radio.0472.org/?id=494&logo" group-title="广东",广东南方生活广播
-https://radio.0472.org/?id=494
-#EXTINF:-1 radio="true" tvg-name="广东交通之声" tvg-logo="https://radio.0472.org/?id=495&logo" group-title="广东",广东交通之声
-https://radio.0472.org/?id=495
-#EXTINF:-1 radio="true" tvg-name="深圳交通频率-快乐1062" tvg-logo="https://radio.0472.org/?id=497&logo" group-title="广东",深圳交通频率-快乐1062
-https://radio.0472.org/?id=497
-#EXTINF:-1 radio="true" tvg-name="深圳音乐频率-飞扬971" tvg-logo="https://radio.0472.org/?id=498&logo" group-title="广东",深圳音乐频率-飞扬971
-https://radio.0472.org/?id=498
-#EXTINF:-1 radio="true" tvg-name="深圳生活频率-生活942" tvg-logo="https://radio.0472.org/?id=499&logo" group-title="广东",深圳生活频率-生活942
-https://radio.0472.org/?id=499
-#EXTINF:-1 radio="true" tvg-name="广州新闻资讯广播" tvg-logo="https://radio.0472.org/?id=728&logo" group-title="广东",广州新闻资讯广播
-https://radio.0472.org/?id=728
-#EXTINF:-1 radio="true" tvg-name="广州青少年广播" tvg-logo="https://radio.0472.org/?id=729&logo" group-title="广东",广州青少年广播
-https://radio.0472.org/?id=729
-#EXTINF:-1 radio="true" tvg-name="广州金曲音乐广播" tvg-logo="https://radio.0472.org/?id=730&logo" group-title="广东",广州金曲音乐广播
-https://radio.0472.org/?id=730
-#EXTINF:-1 radio="true" tvg-name="广州经济交通广播" tvg-logo="https://radio.0472.org/?id=731&logo" group-title="广东",广州经济交通广播
-https://radio.0472.org/?id=731
-#EXTINF:-1 radio="true" tvg-name="梅州电台综合广播" tvg-logo="https://radio.0472.org/?id=1063&logo" group-title="广东",梅州电台综合广播
-https://radio.0472.org/?id=1063
-#EXTINF:-1 radio="true" tvg-name="佛山电台924" tvg-logo="https://radio.0472.org/?id=1067&logo" group-title="广东",佛山电台924
-https://radio.0472.org/?id=1067
-#EXTINF:-1 radio="true" tvg-name="深圳新闻频率-先锋898" tvg-logo="https://radio.0472.org/?id=1074&logo" group-title="广东",深圳新闻频率-先锋898
-https://radio.0472.org/?id=1074
-#EXTINF:-1 radio="true" tvg-name="佛山电台906" tvg-logo="https://radio.0472.org/?id=1349&logo" group-title="广东",佛山电台906
-https://radio.0472.org/?id=1349
-#EXTINF:-1 radio="true" tvg-name="佛山电台901" tvg-logo="https://radio.0472.org/?id=1351&logo" group-title="广东",佛山电台901
-https://radio.0472.org/?id=1351
-#EXTINF:-1 radio="true" tvg-name="佛山电台946" tvg-logo="https://radio.0472.org/?id=1352&logo" group-title="广东",佛山电台946
-https://radio.0472.org/?id=1352
-#EXTINF:-1 radio="true" tvg-name="佛山电台883" tvg-logo="https://radio.0472.org/?id=1353&logo" group-title="广东",佛山电台883
-https://radio.0472.org/?id=1353
-#EXTINF:-1 radio="true" tvg-name="佛山电台985" tvg-logo="https://radio.0472.org/?id=1354&logo" group-title="广东",佛山电台985
-https://radio.0472.org/?id=1354
-#EXTINF:-1 radio="true" tvg-name="湛江经济广播" tvg-logo="https://radio.0472.org/?id=1419&logo" group-title="广东",湛江经济广播
-https://radio.0472.org/?id=1419
-#EXTINF:-1 radio="true" tvg-name="湛江交通音乐广播" tvg-logo="https://radio.0472.org/?id=1420&logo" group-title="广东",湛江交通音乐广播
-https://radio.0472.org/?id=1420
-#EXTINF:-1 radio="true" tvg-name="湛江广播电视台综合广播" tvg-logo="https://radio.0472.org/?id=1421&logo" group-title="广东",湛江广播电视台综合广播
-https://radio.0472.org/?id=1421
-#EXTINF:-1 radio="true" tvg-name="阳江综合广播" tvg-logo="https://radio.0472.org/?id=1424&logo" group-title="广东",阳江综合广播
-https://radio.0472.org/?id=1424
-#EXTINF:-1 radio="true" tvg-name="阳江旅游环保广播" tvg-logo="https://radio.0472.org/?id=1425&logo" group-title="广东",阳江旅游环保广播
-https://radio.0472.org/?id=1425
-#EXTINF:-1 radio="true" tvg-name="鹤山电台" tvg-logo="https://radio.0472.org/?id=1464&logo" group-title="广东",鹤山电台
-https://radio.0472.org/?id=1464
-#EXTINF:-1 radio="true" tvg-name="东莞音乐广播" tvg-logo="https://radio.0472.org/?id=1848&logo" group-title="广东",东莞音乐广播
-https://radio.0472.org/?id=1848
-#EXTINF:-1 radio="true" tvg-name="东莞交通广播" tvg-logo="https://radio.0472.org/?id=1849&logo" group-title="广东",东莞交通广播
-https://radio.0472.org/?id=1849
-#EXTINF:-1 radio="true" tvg-name="东莞综合广播" tvg-logo="https://radio.0472.org/?id=1850&logo" group-title="广东",东莞综合广播
-https://radio.0472.org/?id=1850
-#EXTINF:-1 radio="true" tvg-name="清远综合广播" tvg-logo="https://radio.0472.org/?id=2195&logo" group-title="广东",清远综合广播
-https://radio.0472.org/?id=2195
-#EXTINF:-1 radio="true" tvg-name="清远农村广播" tvg-logo="https://radio.0472.org/?id=2196&logo" group-title="广东",清远农村广播
-https://radio.0472.org/?id=2196
-#EXTINF:-1 radio="true" tvg-name="清远交通音乐广播" tvg-logo="https://radio.0472.org/?id=2197&logo" group-title="广东",清远交通音乐广播
-https://radio.0472.org/?id=2197
-#EXTINF:-1 radio="true" tvg-name="肇庆综合广播" tvg-logo="https://radio.0472.org/?id=2288&logo" group-title="广东",肇庆综合广播
-https://radio.0472.org/?id=2288
-#EXTINF:-1 radio="true" tvg-name="肇庆旅游之声" tvg-logo="https://radio.0472.org/?id=2289&logo" group-title="广东",肇庆旅游之声
-https://radio.0472.org/?id=2289
-#EXTINF:-1 radio="true" tvg-name="台山人民广播电台" tvg-logo="https://radio.0472.org/?id=2443&logo" group-title="广东",台山人民广播电台
-https://radio.0472.org/?id=2443
-#EXTINF:-1 radio="true" tvg-name="怀集音乐之声" tvg-logo="https://radio.0472.org/?id=2518&logo" group-title="广东",怀集音乐之声
-https://radio.0472.org/?id=2518
-#EXTINF:-1 radio="true" tvg-name="肇庆高新区广播" tvg-logo="https://radio.0472.org/?id=3285&logo" group-title="广东",肇庆高新区广播
-https://radio.0472.org/?id=3285
-
-
-#EXTINF:-1 radio="true" tvg-name="RTHK1" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK1
-https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="RTHK2" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK2
-https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="RTHK3" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK3
-https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="RTHK4" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK4
-https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="RTHK5" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK5
-https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="RTHK普通话" tvg-logo="https://live.fanmingming.com/radio/rthk.png" group-title="境外广播",RTHK普通话
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="法国国际广播电台" tvg-logo="https://live.fanmingming.com/radio/rfi.png" group-title="境外广播",法国国际广播电台
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 radio="true" tvg-name="美国之音" tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外广播",美国之音
-https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="自由亚洲电台" tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播",自由亚洲电台
-https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="中广新闻网" tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="境外广播",中广新闻网
 
