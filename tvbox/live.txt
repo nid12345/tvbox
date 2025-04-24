@@ -152,14 +152,14 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",斗鱼老三国
-https://live.iill.top/douyu/7459925
+https://live.iill.top/douyu/12463728
 #EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",斗鱼新三国
-https://live.iill.top/douyu/5908256
+https://live.iill.top/douyu/12210085
 #EXTINF:-1 tvg-id="斗鱼狄仁杰" tvg-name="斗鱼狄仁杰" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",斗鱼狄仁杰
 https://live.iill.top/douyu/6027991
 
 #EXTINF:-1 tvg-id="猎鹰1949" tvg-name="猎鹰1949" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",猎鹰1949
-https://live.iill.top/douyu/3439096
+https://live.iill.top/douyu/11931032
 
 #EXTINF:-1 tvg-id="粤语电影" tvg-name="粤语电影" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 粤语电影
 https://live.iill.top/douyu/1226741
@@ -167,13 +167,13 @@ https://live.iill.top/douyu/1226741
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 西游记
 https://live.iill.top/douyu/3113309
 
-#EXTINF:-1 tvg-id="请回答1988" tvg-name="请回答1988" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 请回答1988
-https://live.iill.top/douyu/8600645
+#EXTINF:-1 tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 庆余年
+https://live.iill.top/douyu/7812810
 
 #EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 周星驰电影
 https://live.iill.top/douyu/122402
 
-#EXTINF:-1 tvg-id="海绵宝宝" tvg-name=" 海绵宝宝" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 海绵宝宝
+#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 海绵宝宝
 https://live.iill.top/douyu/3949681
 
 #EXTINF:-1 tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」", 成龙历险记
@@ -181,6 +181,14 @@ https://live.iill.top/douyu/2287949
 
 #EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",斗鱼港剧间
 https://live.iill.top/douyu/4549169
+
+#EXTINF:-1 tvg-id="老高与小茉" tvg-name="老高与小茉" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",老高与小茉
+https://live.iill.top/douyu/236461
+
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://github.com/https://github.com/nid12345/tv/blob/main/douyu%20logo.PNG" group-title="•影视「轮播」",林正英
+https://live.iill.top/douyu/11849873
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
 https://live.iill.top/huya/11601963
