@@ -34,11 +34,8 @@ https://345iptv.com/?act=play&token=d30af29dc05a726eb3277d2dc59074b0&tid=gt&id=1
 http://php.jdshipin.com/smt.php?id=jade_twn
 
 
-#EXTINF:-1 tvg-name="TVB Plus 3" tvg-id="271990" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="綜合",TVB Plus 3
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="ViuTV 4" tvg-id="410274" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="Entertainment",Viutv 4
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
 
 #EXTINF:-1 tvg-name="HOY資訊台 1" tvg-id="368898" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="新聞",HOY資訊台 1
 https://stream1.freetv.fun/7619fc5c1fe0701ec03fad187339ba5f85454f26f778a77d88e0c07c9b0fbac9.ctv
