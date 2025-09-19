@@ -12,14 +12,14 @@ https://live.iill.top/douyu/6027991
 https://live.iill.top/douyu/11931032
 #EXTINF:-1 tvg-id="当燕双鹰遇见李元芳" tvg-name="当燕双鹰遇见李元芳" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",当燕双鹰遇见李元芳
 https://live.iill.top/douyu/3439096
-#EXTINF:-1 tvg-id="粤语电影" tvg-name="粤语电影" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 粤语电影
-https://live.iill.top/douyu/1226741
+#EXTINF:-1 tvg-id="粤语影视" tvg-name="粤语影视" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 粤语影视
+https://live.iill.top/douyu/11878141
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 西游记
 https://live.iill.top/douyu/3113309
 #EXTINF:-1 tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 庆余年
 https://live.iill.top/douyu/7812810
-#EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 周星驰电影
-https://live.iill.top/douyu/122402
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 爱情公寓
+https://live.iill.top/douyu/4105989
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 海绵宝宝
 https://live.iill.top/douyu/3949681
 #EXTINF:-1 tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 成龙历险记
@@ -28,8 +28,8 @@ https://live.iill.top/douyu/2287949
 https://live.iill.top/douyu/4549169
 #EXTINF:-1 tvg-id="老高与小茉" tvg-name="老高与小茉" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",老高与小茉
 https://live.iill.top/douyu/236461
-#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",林正英
-https://live.iill.top/douyu/11849873
+#EXTINF:-1 tvg-id="下饭鹰" tvg-name="下饭鹰" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",下饭鹰
+https://live.iill.top/douyu/11931032
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",哆啦A梦「动漫」
 https://live.iill.top/huya/11601963
