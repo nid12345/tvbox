@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="斗鱼老三国" tvg-name="斗鱼老三国" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",斗鱼老三国
+https://live.iill.top/douyu/7459925
+#EXTINF:-1 tvg-id="斗鱼新三国" tvg-name="斗鱼新三国" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",斗鱼新三国
+https://live.iill.top/douyu/5908256
+#EXTINF:-1 tvg-id="斗鱼狄仁杰" tvg-name="斗鱼狄仁杰" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",斗鱼狄仁杰
+https://live.iill.top/douyu/12655359
+#EXTINF:-1 tvg-id="狄仁杰" tvg-name="斗鱼狄仁杰" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",狄仁杰
+https://live.iill.top/douyu/6027991
+#EXTINF:-1 tvg-id="猎鹰1949" tvg-name="猎鹰1949" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",猎鹰1949
+https://live.iill.top/douyu/11931032
+#EXTINF:-1 tvg-id="当燕双鹰遇见李元芳" tvg-name="当燕双鹰遇见李元芳" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",当燕双鹰遇见李元芳
+https://live.iill.top/douyu/3439096
+#EXTINF:-1 tvg-id="粤语电影" tvg-name="粤语电影" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 粤语电影
+https://live.iill.top/douyu/1226741
+#EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 西游记
+https://live.iill.top/douyu/3113309
+#EXTINF:-1 tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 庆余年
+https://live.iill.top/douyu/7812810
+#EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 周星驰电影
+https://live.iill.top/douyu/122402
+#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 海绵宝宝
+https://live.iill.top/douyu/3949681
+#EXTINF:-1 tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ", 成龙历险记
+https://live.iill.top/douyu/2287949
+#EXTINF:-1 tvg-id="斗鱼港剧间" tvg-name="斗鱼港剧间" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",斗鱼港剧间
+https://live.iill.top/douyu/4549169
+#EXTINF:-1 tvg-id="老高与小茉" tvg-name="老高与小茉" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",老高与小茉
+https://live.iill.top/douyu/236461
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",林正英
+https://live.iill.top/douyu/11849873
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",哆啦A梦「动漫」
+https://live.iill.top/huya/11601963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",航海王「动漫」
+https://live.iill.top/huya/16913382
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",七龙珠「动漫」
+https://live.iill.top/huya/11601966
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",猫和老鼠「动漫」
+https://live.iill.top/huya/11352879
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",中华小当家「动漫」
+https://live.iill.top/huya/11342413
