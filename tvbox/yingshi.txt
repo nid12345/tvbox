@@ -28,16 +28,4 @@ https://live.iill.top/douyu/2287949
 https://live.iill.top/douyu/4549169
 #EXTINF:-1 tvg-id="老高与小茉" tvg-name="老高与小茉" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",老高与小茉
 https://live.iill.top/douyu/236461
-#EXTINF:-1 tvg-id="下饭鹰" tvg-name="下饭鹰" tvg-logo="https://i.17173cdn.com/2fhnvk/YWxqaGBf/cms3/vHJvcGbmhsuqsdp.png" ",下饭鹰
-https://live.iill.top/douyu/11931032
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",哆啦A梦「动漫」
-https://live.iill.top/huya/11601963
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",航海王「动漫」
-https://live.iill.top/huya/16913382
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",七龙珠「动漫」
-https://live.iill.top/huya/11601966
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",猫和老鼠「动漫」
-https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" ",中华小当家「动漫」
-https://live.iill.top/huya/11342413
